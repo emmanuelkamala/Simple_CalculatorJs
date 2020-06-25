@@ -1,4 +1,4 @@
-# Project: Weather App
+# Project: A Simple Calculator app
 
  This is a practice project for building a simple calculator app. The app can perform simple calculations like addition, subtraction, multiplication, division. It can also clear items once entered and also works with decimals.
 
@@ -23,7 +23,7 @@ Open your terminal or text editor and use next command
 
   git clone https://github.com/emmanuelkamala/Simple_CalculatorJs.git
 
-  cd WeatherApp
+  cd Simple_CalculatorJs
 
   Run: 'npm install', to install all the dependencies
 
