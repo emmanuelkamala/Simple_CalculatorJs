@@ -2,12 +2,12 @@
     padding: 0;
     margin: 0;
     background-origin: padding-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 html{
     font-size: 16px;
-    background-color: #636363;
+    background-color: lavender;
 }
 
 .calculator{
@@ -20,7 +20,7 @@ html{
 }
 
 .calc-container{
-    background-color: #1d1d1d;
+    background-color: #636363;
 
     width: 300px;
     height: auto;
@@ -114,7 +114,7 @@ html{
 
 .row #calculate{
     color: #FFF;
-    background-color: #46e0bc;
+    background-color: rgb(4, 102, 4);
     width : 121px;
     border-radius: 50px;
 }
@@ -124,5 +124,5 @@ html{
 }
 
 #division, #multiplication, #subtraction, #addition {
-    color: #18b893;
+    color: #5bc206;
 }
